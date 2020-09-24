@@ -4,7 +4,7 @@ Created Blog page where user can share their experience and perform CURD operati
 
 Technologies used:
 
-Reactjs
-Postgres
-express
-Docker
+Reactjs,
+Postgres,
+express,
+Docker.
